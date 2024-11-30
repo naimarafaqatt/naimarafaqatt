@@ -7,7 +7,7 @@
 </p>
 <h1 align="center"
 style="font-family: 'Nova Square', cursive;"
->Hi 👋, I'm Naima Rafaqat</h1>
+>Hi 👋, I'm "Naima Rafaqat" In a world full of bugs, I'm the exterminator🐞🔨</h1>
 <h3 align="center"
 style="font-family: 'Nova Square', cursive;"
 >A Computer Science Graduate</h3>
