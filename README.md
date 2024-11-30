@@ -11,7 +11,7 @@ style="font-family: 'Nova Square', cursive;"
 <h3 align="center"
 style="font-family: 'Nova Square', cursive;"
 >A Computer Science Graduate</h3>
-<p align="center">I am passionate about creating web applications using the MERN stack. I enjoy showcasing my creativity through personal projects and experiments . My current goal is to learn more about DevOps and how to automate, monitor and optimize the development and deployment process . Feel free to check out my repositories and connect with me! </p>
+<p align="center">Passionate about creating web applications using the MERN stack. I enjoy showcasing my creativity through personal projects and experiments . My current goal is to learn more about DevOps and how to automate, monitor and optimize the development and deployment process . Feel free to check out my repositories and connect with me! </p>
 <p align="center"> 
 <br>
 
