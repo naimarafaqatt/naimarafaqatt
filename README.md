@@ -35,7 +35,7 @@ style="font-family: 'Nova Square', cursive;"
 
 - 🌱 Learning more about  **DevOps , AWS , Docker**
 
-- 💬 Ask me about **MERN, Git, AWS and Docker**
+- 💬 Ask me about **MERN, JavaScript, Typescript, React.js, Git, AWS and Docker**
 
 - 📫 How to reach me [Naima's email](mailto:naimarafaqat@outlook.com)
 
