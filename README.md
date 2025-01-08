@@ -3,7 +3,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anta&family=Nova+Square&display=swap" rel="stylesheet">
 <p align="center">
- <a href="https://portfolio-orpin-iota-50.vercel.app"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=29&duration=1500&pause=1000&color=06A2EA&center=true&vCenter=true&random=false&width=435&lines=Full+stack+web+developer+...;MERN+Stack+Enthusiast+...;Docker+AWS+..." alt="Text" /></a>
+ <a href="https://portfolio-orpin-iota-50.vercel.app"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=29&duration=1500&pause=1000&color=06A2EA&center=true&vCenter=true&random=false&width=435&lines=Full+stack+developer+...;MERN+Stack+Enthusiast+...;Docker+AWS+..." alt="Text" /></a>
 </p>
 <h1 align="center"
 style="font-family: 'Nova Square', cursive;"
@@ -31,11 +31,11 @@ style="font-family: 'Nova Square', cursive;"
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Web Apps**
+- 🔭 I’m currently working on **Web Apps & Cloud Services**
 
-- 🌱 Learning more about  **DevOps , AWS , Docker**
+- 🌱 Learning more about  **Next.js and other technologies**
 
-- 💬 Ask me about **MERN, JavaScript, TypeScript, React.js, Git, AWS and Docker**
+- 💬 Ask me about **MERN, TypeScript, Git, AWS and Docker**
 
 - 📫 How to reach me [Naima's email](mailto:naimarafaqat@outlook.com)
 
