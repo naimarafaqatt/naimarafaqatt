@@ -35,7 +35,7 @@ style="font-family: 'Nova Square', cursive;"
 
 - 🌱 Learning more about  **Next.js and other technologies**
 
-- 💬 Ask me about **MERN, TypeScript, Git, AWS and Docker**
+- 💬 Ask me about **MERN, JavaScript, TypeScript, Git, AWS and Docker**
 
 - 📫 How to reach me [Naima's email](mailto:naimarafaqat@outlook.com)
 
